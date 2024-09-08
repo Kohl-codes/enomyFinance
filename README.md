@@ -39,3 +39,7 @@ This is a web-based investment management application built with **Spring MVC** 
    ```bash
    http://localhost:8080/enomy-finance/
    ```
+## Authors
+ ✍️ **Nichole Orador**
+ 
+Feel free to explore and contribute to enhance this application! Its still in its draft stage. 
